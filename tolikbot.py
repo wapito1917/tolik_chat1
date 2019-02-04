@@ -2,7 +2,7 @@ import os
 import random
 import telebot
 from telebot.types import Message
-
+TOKEN='706950167:AAEMzTSjTEmkCEW44dLmVW_pH9UeFhTHmgs'
 bot = telebot.TeleBot(TOKEN)
 
 answer=[
