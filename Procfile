@@ -1,1 +1,1 @@
-web: python3 tolikbot.py
+bot: python3 tolikbot.py
